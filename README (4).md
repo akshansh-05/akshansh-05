@@ -18,7 +18,6 @@
 I'm a passionate **VLSI engineer-in-training** with a strong focus on **Frontend Design**, actively building expertise in **RTL Design** and **Design Verification Methodologies**. I have hands-on experience with the complete **RTL-to-GDSII** flow and love working at the intersection of hardware and software.
 
 - 🔍 Seeking training opportunities: **25th May – 24th July**
-- 🎓 CGPA: **7.78/10** (up to 5th Semester)
 - 📍 Based in **New Delhi, India**
 - ⚡ Fun fact: I built an AI-powered smart dustbin that sends WhatsApp alerts!
 
