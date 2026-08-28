@@ -2,7 +2,7 @@
 <h3 align="center">VLSI Enthusiast | Digital Design & Verification Engineer in the making</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=UVM+%7C+SystemVerilog+%7C+Constrained-Random+Verification;Building+Reusable+Verification+IPs;Chasing+100%25+Functional+%26+Code+Coverage;Ex-Intern+%40+Cadence+Design+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F2&center=true&vCenter=true&width=800&lines=UVM+%7C+SystemVerilog+%7C+Constrained-Random+Verification;Building+Reusable+Verification+IPs;Chasing+100%25+Functional+%26+Code+Coverage;Ex-Intern+%40+Cadence+Design+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
