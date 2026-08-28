@@ -115,15 +115,14 @@ HW-SW co-design using binary-tree reduction order for numerical determinism in m
 
 ---
 
-### 📊 GitHub Stats
+#### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshansh-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.vercel.app/?user=akshansh-05&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akshansh-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img
+    src="https://github.pumbas.net/api/contributions/akshansh-05?bgColour=0D1117&colour=2EA3F2&dotColour=30363D"
+    alt="Akshansh Chaurasia's GitHub Contributions"
+    width="950"
+  />
 </p>
 
 ---
