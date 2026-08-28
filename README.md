@@ -6,9 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshansh-chaurasia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:akshansh439@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/akshansh-05"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/akshansh-chaurasia">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:akshansh439@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/akshansh-05">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -27,6 +33,7 @@
 ### 🛠️ Tech Stack
 
 **Languages & Methodologies**
+
 <p>
   <img src="https://img.shields.io/badge/SystemVerilog-1F425F?style=flat-square"/>
   <img src="https://img.shields.io/badge/Verilog-1F425F?style=flat-square"/>
@@ -36,6 +43,7 @@
 </p>
 
 **EDA Tools**
+
 <p>
   <img src="https://img.shields.io/badge/Cadence%20Xcelium-004B87?style=flat-square"/>
   <img src="https://img.shields.io/badge/SimVision-004B87?style=flat-square"/>
@@ -45,6 +53,7 @@
 </p>
 
 **Protocols**
+
 <p>
   <img src="https://img.shields.io/badge/AXI4--Stream-006494?style=flat-square"/>
   <img src="https://img.shields.io/badge/AXI4--Memory%20Mapped-006494?style=flat-square"/>
@@ -52,6 +61,7 @@
 </p>
 
 **Hardware & Platforms**
+
 <p>
   <img src="https://img.shields.io/badge/Nexys%20A7%20FPGA-2E7D32?style=flat-square"/>
   <img src="https://img.shields.io/badge/ESP32-2E7D32?style=flat-square"/>
@@ -61,6 +71,7 @@
 </p>
 
 **Environment**
+
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GVim-019733?style=flat-square&logo=vim&logoColor=white"/>
@@ -70,7 +81,7 @@
 
 ### 🏢 Experience
 
-**Design Verification Trainee — Cadence Design Systems, Noida**
+**Design Verification Trainee — Cadence Design Systems, Noida**  
 *SSG CSG PCIe IP Team | May 2026 – Aug 2026*
 
 - Studied the AMBA APB 5 Specification in depth and authored a vPLAN with 30+ test cases spanning sanity, corner-case, and error scenarios.
@@ -83,30 +94,36 @@
 ### 🚀 Featured Projects
 
 #### 🔹 [Functional Verification of AXI-DMA and AXI-RAM](#)
+
 *May 2026 – Present*
+
 Building a reusable UVM-based Verification IP for the AMBA AXI4 protocol targeting AXI-DMA and AXI-RAM DUTs — full spec study, vPLAN, Makefile-automated regressions, and coverage-driven closure via Cadence IMC.
 
 #### 🔹 [Functional Verification of Data Aligner Controller](#)
+
 *Jan 2026 – Apr 2026*
+
 Full UVM testbench for a Data Aligner IP with custom protocol driver/monitor, a RAL model for front-door/back-door register access over AMBA 3 APB, and a scoreboard covering SIZE/OFFSET configs, FIFO boundaries, interrupts, and illegal-transfer scenarios — **100% coverage bin closure**.
 
 #### 🔹 [Deterministic Multi-GPU Reduction via a Custom NoC Accelerator](#)
+
 *Jan 2026 – Apr 2026*
+
 HW-SW co-design using binary-tree reduction order for numerical determinism in multi-GPU floating-point ops, with credit-based flow control routers. Verified via a layered testbench with packet-switching checks and formal deadlock-freedom assertions.
 
-> 💡 *Update the `#` links above with your actual GitHub repo URLs.*
+> 💡 *Replace the `#` links above with your actual GitHub repository URLs.*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshansh-05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshansh-05&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshansh-05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.vercel.app/?user=akshansh-05&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshansh-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshansh-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -116,8 +133,10 @@ HW-SW co-design using binary-tree reduction order for numerical determinism in m
 <p align="center">
   I'm on the lookout for VLSI internship opportunities — always happy to talk chips, protocols, and verification methodology.
   <br/><br/>
-  📧 <a href="mailto:akshansh439@gmail.com">akshansh439@gmail.com</a> &nbsp;|&nbsp;
-  📱 +91 7217899471 &nbsp;|&nbsp;
+  📧 <a href="mailto:akshansh439@gmail.com">akshansh439@gmail.com</a>
+  &nbsp;|&nbsp;
+  📱 +91 7217899471
+  &nbsp;|&nbsp;
   📍 New Delhi, India
 </p>
 
