@@ -89,32 +89,6 @@
 - Ran simulations on Cadence Xcelium, debugged via UVM logs and SimVision waveforms, and drove coverage to **100% functional and code coverage**.
 - Generated a UVM RAL model for the PCIe Transaction Layer (TL) RX module using IP-XACT into Cadence RALGen.
 
----
-
-### 🚀 Featured Projects
-
-#### 🔹 [Functional Verification of AXI-DMA and AXI-RAM](#)
-
-*May 2026 – Present*
-
-Building a reusable UVM-based Verification IP for the AMBA AXI4 protocol targeting AXI-DMA and AXI-RAM DUTs — full spec study, vPLAN, Makefile-automated regressions, and coverage-driven closure via Cadence IMC.
-
-#### 🔹 [Functional Verification of Data Aligner Controller](#)
-
-*Jan 2026 – Apr 2026*
-
-Full UVM testbench for a Data Aligner IP with custom protocol driver/monitor, a RAL model for front-door/back-door register access over AMBA 3 APB, and a scoreboard covering SIZE/OFFSET configs, FIFO boundaries, interrupts, and illegal-transfer scenarios — **100% coverage bin closure**.
-
-#### 🔹 [Deterministic Multi-GPU Reduction via a Custom NoC Accelerator](#)
-
-*Jan 2026 – Apr 2026*
-
-HW-SW co-design using binary-tree reduction order for numerical determinism in multi-GPU floating-point ops, with credit-based flow control routers. Verified via a layered testbench with packet-switching checks and formal deadlock-freedom assertions.
-
-> 💡 *Replace the `#` links above with your actual GitHub repository URLs.*
-
----
-
 #### 📊 GitHub Contributions
 
 <p align="center">
